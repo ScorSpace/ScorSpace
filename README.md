@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ScorSpace
+- 👋 Hi, we're @ScorSpace
 - 👀 We're interested in astronautics and space
 - 🌱 We're currently learning about programming and how it applies to hardware.
 - 💞️ We're looking to collaborate on CanSat.
