@@ -2,7 +2,7 @@
 - 👀 We're interested in astronautics and space
 - 🌱 We're currently learning about programming and how it applies to hardware.
 - 💞️ We're looking to collaborate on CanSat.
-- 📫 How to reach me: scorspace@gmail.com
+- 📫 How to reach us: scorspace@gmail.com
 
 <!---
 ScorSpace/ScorSpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
